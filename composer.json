@@ -1,6 +1,6 @@
 {
     "name": "xiaozhuful/yii2-smser",
-    "description": "Yii2 SMS extension",
+    "description": "基于daixianceng/yii2-smser扩展",
     "keywords": ["yii2", "extension", "sms", "smser", "plugin"],
     "homepage": "https://github.com/xiaozhuful/yii2-smser",
     "type": "yii2-extension",
